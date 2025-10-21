@@ -49,9 +49,6 @@ The dataset (customer_shopping_data) contains the following fields:
 - Apply customer segmentation using clustering techniques
 - Automate the SQL workflow for ongoing mall data
 
-## About Me
 
-👤 **EMMANUEL NWANGUMA**
-📧 nwangumaemmanuel29@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nwangumaemmanuel)
 
