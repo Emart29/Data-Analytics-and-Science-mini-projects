@@ -1,7 +1,7 @@
 # Data Analytics & Data Science Mini Projects
 
 Welcome to my **Data Analytics and Data Science Practical Learning Repository**
-This collection showcases my hands-on projects using **Python, SQL, Tableau, and Amazon QuickSight**  while applying key steps of the **data science process**
+This collection showcases my hands-on projects using **Python, SQL, Tableau and Amazon QuickSight**  while applying key steps of the **data science process**
 
 ---
 
@@ -12,7 +12,6 @@ This collection showcases my hands-on projects using **Python, SQL, Tableau, and
 | `01_python_projects/` | Mini projects using Python for data wrangling, EDA, and visualization. |
 | `02_sql_projects/` | Analytical SQL projects for business and performance insights. |
 | `03_visualization_dashboards/` | Tableau & QuickSight dashboards for interactive storytelling. |
-| `04_end_to_end_projects/` | Combined projects covering full data pipelines — SQL + Python + Visualization. |
 
 ---
 
@@ -23,14 +22,6 @@ This collection showcases my hands-on projects using **Python, SQL, Tableau, and
 **Visualization Tools:** Tableau, Amazon QuickSight  
 **Database Tools:** MySQL  
 **Environment:** Jupyter Notebook, VS Code, Pycharm
-
----
-
-## **Example Projects**
-
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [project name](repolink) | project desription | tools/libraries |
 
 ---
 
