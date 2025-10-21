@@ -1,8 +1,7 @@
 # Data Analytics & Data Science Mini Projects
 
 Welcome to my **Data Analytics and Data Science Practical Learning Repository**
-This collection showcases my hands-on projects using **Python, SQL, Tableau, and Amazon QuickSight** — applying key steps of the **data science process**:  
-data collection → cleaning → analysis → visualization → insights.
+This collection showcases my hands-on projects using **Python, SQL, Tableau, and Amazon QuickSight**  while applying key steps of the **data science process**
 
 ---
 
