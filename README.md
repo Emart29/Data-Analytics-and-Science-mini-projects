@@ -20,7 +20,7 @@ This collection showcases my hands-on projects using **Python, SQL, Tableau and 
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 **Visualization Tools:** Tableau, Amazon QuickSight  
-**Database Tools:** MySQL  
+**Database Tools:** MySQL, BigQuery
 **Environment:** Jupyter Notebook, VS Code, Pycharm
 
 ---
