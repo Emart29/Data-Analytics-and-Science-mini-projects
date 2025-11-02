@@ -25,7 +25,7 @@ Exploratory data analysis of crime data from Los Angeles, focusing on identifyin
 
 ## 📁 Files
 - `EDA_crime.ipynb` - Main analysis notebook
-- `crimes.csv` - Crime dataset from Los Angeles Open Data
+- `crimes.zip/crimes.csv` - Crime dataset from Los Angeles Open Data
 
 ## 🔍 Analysis Highlights
 - Extracted hour information from military time data
