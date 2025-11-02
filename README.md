@@ -9,7 +9,7 @@ This collection showcases my hands-on projects using **Python, SQL, Tableau and 
 
 | Folder | Description |
 |--------|--------------|
-| `01_python_projects/` | Mini projects using Python for data wrangling, EDA, and visualization. |
+| `01_python_projects/` | Mini projects using Python for data wrangling, EDA, Machine learning and visualization. |
 | `02_sql_projects/` | Analytical SQL projects for business and performance insights. |
 | `03_visualization_dashboards/` | Tableau & QuickSight dashboards for interactive storytelling. |
 
