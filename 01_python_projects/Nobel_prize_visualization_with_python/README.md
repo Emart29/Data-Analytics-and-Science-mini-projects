@@ -26,5 +26,5 @@ This project analyzes Nobel Prize laureate data from 1901 to 2023 to identify de
 
 ## 📁 Files
 - `nobel_notebook.ipynb` - Main analysis notebook
-- `data/nobel.csv` - Dataset containing Nobel laureate information
+- `nobel prize winner.csv` - Dataset containing Nobel laureate information
 - `README.md` - Project documentation
